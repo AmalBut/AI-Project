@@ -1,6 +1,7 @@
 //Amal Butmah 1200623
 //Layan Shoukri 1201225
 
+
 package AIproject;
 
 import java.util.Scanner;
@@ -8,8 +9,8 @@ import java.util.Scanner;
 public class MagneticCave {
 	private static int boardSize = 8; // define the board size to 8 which will be 8*8
 	private static char blank = '_'; // board blanks, the initial state of each position
-	private static char player1 = 'a'; // this brick defines the first player (if the character is invalid replace with any character you want)
-	private static char player2 = 'b'; // this brick defines the second player  (if the character is invalid replace with any character you want)
+	private static char player1 = '◻'; // this brick defines the first player (if the character is invalid replace it with any character you want)
+	private static char player2 = '■'; // this brick defines the second player  (if the character is invalid replace it with any character you want)
 	private static char[][] board; // 2-D array to store the game board
 
 	public static void main(String[] args) { // the main function
