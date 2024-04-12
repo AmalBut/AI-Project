@@ -1,2 +1,2 @@
 # AI-Project
-##Magnatic Cave Game
+## Magnatic Cave Game
