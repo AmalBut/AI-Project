@@ -32,7 +32,7 @@ This makes the AI challenging and fun to play against! 🎉
 
 1. **Clone the Game**:
    ```bash
-   git clone https://github.com/your-username/magnetic-cave.git
+   git clone [https://github.com/AmalBut/Magnetic-Cave-Game.git]
    
 2. **Run the Game**:
     - Open the project in your favorite Java IDE (e.g., IntelliJ, Eclipse).
